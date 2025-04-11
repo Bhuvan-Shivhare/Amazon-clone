@@ -10,7 +10,7 @@ Live Demo
 
 Screenshots
 
-![Amazon Clone Screenshot](./components/screenshot_1.png)  
+![Amazon Clone Screenshot]([./components/screenshot_1.png](https://github.com/Bhuvan-Shivhare/Amazon-clone/blob/main/components/Screenshot_1.png))  
 
 
 - ✅ Fully responsive layout
