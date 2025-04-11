@@ -5,16 +5,11 @@ This project replicates the look and layout of the Amazon website front page —
 
 
 Live Demo
-[View Live](https://your-github-username.github.io/amazon-clone/)  
+[View Live]( https://bhuvan-shivhare.github.io/Amazon-clone/)  
 
 
-Screenshots
-
-![Amazon Clone Screenshot]([./components/screenshot_1.png](https://github.com/Bhuvan-Shivhare/Amazon-clone/blob/main/components/Screenshot_1.png))  
-
-
-- ✅ Fully responsive layout
-- ✅ Navigation bar with dropdowns
+- ✅ Well structured UI
+- ✅ Bottom Up button  
 - ✅ Hero section and product showcases
 - ✅ Footer with multiple columns
 - ✅ Clean and structured code using semantic HTML
